@@ -4,9 +4,9 @@ Asset Kanatov SE-2004
 # Installing
 
 #### Beautiful Soup 
-`<pip install beautifulsoup4>`
+`pip install beautifulsoup4`
 #### Requests 
-`<pip install requests>`
+`pip install requests`
 
 # Usage Examples
 ```
